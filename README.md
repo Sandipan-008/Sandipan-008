@@ -4,7 +4,7 @@
 <img align = "right" alt = "Coding" width = "400" src= "https://tenor.com/view/ai-bot-chatgpt-artificial-chat-gpt-gif-282704938762721238.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandipan-008&label=Profile%20views&color=0e75b6&style=flat" alt="sandipan-008" /> </p>
 
-- 🔭 I’m currently studying Masters of Computer Application (MCA) **Computer Application**
+- 🔭 I’m currently studying Masters of Computer Application (MCA)
 
 - 🌱 I’m currently learning **DSA using Java,Python advanced,SQL**
 
