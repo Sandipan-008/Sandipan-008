@@ -4,6 +4,8 @@
 <img align = "right" alt = "Coding" width = "400" src= "https://tenor.com/view/ai-bot-chatgpt-artificial-chat-gpt-gif-282704938762721238.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandipan-008&label=Profile%20views&color=0e75b6&style=flat" alt="sandipan-008" /> </p>
 
+- 🔭 I’m currently studying Masters of Computer Application (MCA) **Computer Application**
+
 - 🌱 I’m currently learning **DSA using Java,Python advanced,SQL**
 
 - 💬 Ask me about **Python,Sql**
@@ -14,14 +16,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/@sandmaj2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sandmaj2001" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sandipan-majumder008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandipan-majumder008" height="30" width="40" /></a>
 <a href="https://instagram.com/sandipan.majumder.583" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandipan.majumder.583" height="30" width="40" /></a>
-<a href="https://x.com/sandmaj2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="sandmaj2001" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sandipan-majumder008/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="sandipan-majumder008" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@sandipanmajumder9419" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@sandipanmajumder9419" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sandipan majumder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sandipan majumder" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sandipan majumder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandipan majumder" height="30" width="40" /></a>
-
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandipan-008&show_icons=true&locale=en" alt="sandipan-008" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandipan-008&" alt="sandipan-008" /></p>
+
