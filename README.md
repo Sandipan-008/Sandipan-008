@@ -15,15 +15,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/sandipan.majumder.583" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandipan.majumder.583" height="30" width="40" /></a>
-  
 <a href="https://x.com/sandmaj2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="sandmaj2001" height="30" width="40" /></a>
-
 <a href="https://www.linkedin.com/in/sandipan-majumder008/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="sandipan-majumder008" height="30" width="40" /></a>
-
 <a href="https://www.youtube.com/c/https://www.youtube.com/@sandipanmajumder9419" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@sandipanmajumder9419" height="30" width="40" /></a>
-
 <a href="https://www.hackerrank.com/sandipan majumder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sandipan majumder" height="30" width="40" /></a>
-
 <a href="https://www.leetcode.com/sandipan majumder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandipan majumder" height="30" width="40" /></a>
 
 
