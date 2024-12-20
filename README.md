@@ -1,7 +1,7 @@
 ! [logo] (https://github.com/Sandipan-008/Sandipan-008/blob/main/Blue%20and%20White%20Bold%20Real%20Estate%20Agent%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sandipan Majumder</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align = "right" alt = "Coding" width = "400" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQtBPQr3QtF9oShmIQzqvbOMguqQnPzBNIsg&s"
+<img align = "right" alt = "Coding" width = "400" src= "https://github.com/Sandipan-008/Sandipan-008/blob/main/Blue%20and%20White%20Bold%20Real%20Estate%20Agent%20LinkedIn%20Banner.png"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandipan-008&label=Profile%20views&color=0e75b6&style=flat" alt="sandipan-008" /> </p>
 
 - 🌱 I’m currently learning **DSA using Java,Python advanced,SQL**
