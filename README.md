@@ -1,3 +1,4 @@
+![logo] (https://github.com/Sandipan-008/Sandipan-008/blob/main/Black%20and%20Red%20Edgy%20Gaming%20Youtube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sandipan Majumder</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align = "right" alt = "Coding" width = "400" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQtBPQr3QtF9oShmIQzqvbOMguqQnPzBNIsg&s"
