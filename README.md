@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studying **Masters of Computer Application (MCA)**
 
-- 🌱 I’m currently learning **DSA using Java,Python advanced,SQL**
+- 🌱 I’m currently learning **DSA using Java, Python advanced, SQL advanced.**
 
 - 💬 Ask me about **Python,Sql**
 
